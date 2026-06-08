@@ -23,22 +23,6 @@
   </a>
 </p>
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/></a>
-  <!-- Backend -->
-  <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <!-- DevOps & Infra -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/></a>
-</p>
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -61,8 +45,8 @@
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/svosilas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:SEU_EMAIL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/svosilas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:SEU_EMAIL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <p align="center">
