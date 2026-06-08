@@ -41,10 +41,3 @@
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=SavioSilas&theme=onedark&margin-w=15" alt="Trophy" />
   </a>
 </p>
-
-### 📫 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/svosilas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:svosilas@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" /></a>
-</p>
