@@ -26,12 +26,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavioSilas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SavioSilas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioSilas&theme=onedark" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioSilas&layout=compact&theme=onedark&hide_progress=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SavioSilas&layout=compact&theme=onedark&hide_progress=false" alt="Top Langs" />
 </p>
 
 ### 🏆 Troféus
