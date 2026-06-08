@@ -18,6 +18,12 @@
 ### 🛠️ Linguagens e Ferramentas
 
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,py,django,postgres,redis,docker,nginx,github" alt="Minhas Ferramentas" />
+  </a>
+</p>
+
+<p align="left">
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -36,19 +42,19 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=onedark" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SavioSilas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioSilas&theme=onedark" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=onedark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioSilas&layout=compact&theme=onedark" alt="Top Langs" />
 </p>
 
 ### 🏆 Troféus
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=onedark&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SavioSilas&theme=onedark&margin-w=15" alt="Trophy" />
   </a>
 </p>
 
