@@ -11,7 +11,6 @@
 ### 👨‍💻 Sobre mim
 - 🎓 Formação em **Engenharia da Computação**.
 - 🔭 Atualmente atuando como **Analista de Desenvolvimento** nos ecossistemas da **Criativa Tech** e do **Portal Vidros**, responsável por tirar os projetos do papel e colocá-los em prática.
-- 🌱 Focado na migração de sistemas em Django para arquiteturas modernas usando **React, Next.js, Vite e TypeScript**.
 - ⚙️ Experiência em orquestração de ambientes e deploys com **Docker, Docker Compose, Nginx, Gunicorn, Celery e PostgreSQL**.
 - 💡 Explorando **Visão Computacional (YOLO)** para mapeamento industrial e análise em linhas de produção.
 - 💬 Pergunte-me sobre: **Integrações da Evolution API (WhatsApp Business)**, **Pipelines de CI/CD (GitHub Actions)** e **Desenvolvimento Backend/Frontend**.
