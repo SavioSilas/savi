@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20um%20Desenvolvedor%20Full-Stack&fontSize=30&fontAlignY=35&desc=Desenvolvedor%20|&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Analista%20de%20Desenvolvimento&fontSize=35&fontAlignY=35&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Desenvolvendo+projetos+na+Criativa+Tech+%26+Portal+Vidros;Tirando+ideias+do+papel+e+colocando+em+pr%C3%A1tica;Desenvolvedor+Full-Stack+(Python+%2F+React);Focado+em+Clean+Code+e+Arquitetura+Escal%C3%A1vel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Analista+de+Desenvolvimento;Forma%C3%A7%C3%A3o+em+Engenharia+da+Computa%C3%A7%C3%A3o;Tirando+ideias+do+papel+e+colocando+em+pr%C3%A1tica;Focado+em+Clean+Code+e+Arquitetura+Escal%C3%A1vel" alt="Typing SVG" />
   </a>
 </p>
 
 ### 👨‍💻 Sobre mim
-- 🔭 Atualmente atuando como **Desenvolvedor** nos ecossistemas da **Criativa Tech** e do **Portal Vidros**, responsável por tirar os projetos do papel e colocá-los em prática.
+- 🎓 Formação em **Engenharia da Computação**.
+- 🔭 Atualmente atuando como **Analista de Desenvolvimento** nos ecossistemas da **Criativa Tech** e do **Portal Vidros**, responsável por tirar os projetos do papel e colocá-los em prática.
+- 🌱 Focado na migração de sistemas em Django para arquiteturas modernas usando **React, Next.js, Vite e TypeScript**.
 - ⚙️ Experiência em orquestração de ambientes e deploys com **Docker, Docker Compose, Nginx, Gunicorn, Celery e PostgreSQL**.
 - 💡 Explorando **Visão Computacional (YOLO)** para mapeamento industrial e análise em linhas de produção.
 - 💬 Pergunte-me sobre: **Integrações da Evolution API (WhatsApp Business)**, **Pipelines de CI/CD (GitHub Actions)** e **Desenvolvimento Backend/Frontend**.
