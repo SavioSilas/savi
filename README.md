@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20um%20Desenvolvedor%20Full-Stack&fontSize=30&fontAlignY=35&desc=Tech%20Lead%20|%20Manaus,%20Amazonas&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20um%20Desenvolvedor%20Full-Stack&fontSize=30&fontAlignY=35&desc=Desenvolvedor%20|%20Manaus,%20Amazonas&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Liderando+projetos+na+Criativa+Tech+%26+Portal+Vidros;Desenvolvedor+Full-Stack+(Python+%2F+React);Entusiasta+de+Automa%C3%A7%C3%A3o+Industrial+%26+Vis%C3%A3o+Computacional;Focado+em+Clean+Code+e+Arquitetura+Escal%C3%A1vel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Desenvolvendo+projetos+na+Criativa+Tech+%26+Portal+Vidros;Tirando+ideias+do+papel+e+colocando+em+pr%C3%A1tica;Desenvolvedor+Full-Stack+(Python+%2F+React);Focado+em+Clean+Code+e+Arquitetura+Escal%C3%A1vel" alt="Typing SVG" />
   </a>
 </p>
 
 ### 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalhando como **Tech Lead** nos ecossistemas da **Criativa Tech** e do **Portal Vidros**.
+- 🔭 Atualmente atuando como **Desenvolvedor** nos ecossistemas da **Criativa Tech** e do **Portal Vidros**, responsável por tirar os projetos do papel e colocá-los em prática.
 - 🌱 Focado na migração de sistemas em Django para arquiteturas modernas usando **React, Next.js, Vite e TypeScript**.
 - ⚙️ Experiência em orquestração de ambientes e deploys com **Docker, Docker Compose, Nginx, Gunicorn, Celery e PostgreSQL**.
 - 💡 Explorando **Visão Computacional (YOLO)** para mapeamento industrial e análise em linhas de produção.
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioSilas&layout=compact&theme=onedark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioSilas&layout=compact&theme=onedark&hide_progress=false" alt="Top Langs" />
 </p>
 
 ### 🏆 Troféus
