@@ -61,10 +61,10 @@
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/svosilas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:SEU_EMAIL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=blue&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SavioSilas&color=blue&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Profile Views" />
 </p>
