@@ -48,7 +48,3 @@
   <a href="https://www.linkedin.com/in/svosilas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:svosilas@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SavioSilas&color=blue&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Profile Views" />
-</p>
