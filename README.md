@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SavioSilas&theme=onedark&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=SavioSilas&theme=onedark&margin-w=15" alt="Trophy" />
   </a>
 </p>
 
